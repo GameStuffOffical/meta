@@ -1,1 +1,11 @@
 Let's make a game!
+Buttons
+    *generateButton
+        name: GENERATE
+        on click: yield 1 energy
+
+Resources
+    *energy
+        name: Energy
+        desc: What makes up all actions in the universe. Extremely vital.
+        shown
